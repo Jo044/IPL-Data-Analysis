@@ -59,4 +59,8 @@ Analyze **IPL Auction data** using **Python, pandas, matplotlib, and seaborn** t
 1️⃣ **Clone the repository:**
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Jo044/IPL-Data-Analysis
+=======
+git clone https://github.com/Jo044/IPL-Data-Analysis
+>>>>>>> 2a1d0993a965fb2384a42c5b6f1f05477461a6cf
